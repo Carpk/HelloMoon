@@ -4,6 +4,5 @@
   <string name="app_name">HolaLuna</string>
   <string name="hellomoon_play">Tocar</string>
   <string name="hellomoon_stop">Detener</string>
-  <string name="hellomoon_image_description">Neil Armstrong pisando 
-            la luna</string>
+  <string name="hellomoon_image_description">Neil Armstrong pisando la luna</string>
 </resources>
